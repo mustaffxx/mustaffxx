@@ -3,4 +3,4 @@ i'm an embedded systems developer who spends most of time coding firmware for de
 \
 naturally i like operating systems, robotics and control systems.  \
 \
-currently most interested in **Node.JS** and **backend** development.  
+currently building things with the following stack: **Node.js** and **React**
